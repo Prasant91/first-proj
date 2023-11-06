@@ -1,3 +1,3 @@
 # first-proj
 this is my first git repository.
-Created by Prasant
+Created by Prasant Kumar
